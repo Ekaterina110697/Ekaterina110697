@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there :v:
+## My name is Ekaterina! At the moment I am a novice Python developer Python.
 
-<!--
-**Ekaterina110697/Ekaterina110697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:eyes:  I am currently studying Python, Django, Django REST framework, SQL, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:bulb: All of my projects are available in my [my repositories](https://github.com/Ekaterina110697?tab=repositories)
+
+:email: How to connect me:
+
+- E-mail: ekaterinak1106@bk.ru
+
+- Telegram: @AKEkaterinaa
+
+### Languages and Tools::
+![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
