@@ -1,10 +1,10 @@
 # Hi there :v:
-## My name is Ekaterina! At the moment I am a novice Python developer.
+## My name is Ekaterina! At the moment I am a beginner Python developer.
 
 
 :eyes:  I am currently studying Python, Django, Django REST framework, SQL, Docker
 
-:bulb: All of my projects are available in my [my repositories](https://github.com/Ekaterina110697?tab=repositories)
+:bulb: All of my projects are available in [my repositories](https://github.com/Ekaterina110697?tab=repositories)
 
 :email: How to connect me:
 
