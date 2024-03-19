@@ -1,5 +1,5 @@
 # Hi there :v:
-## My name is Ekaterina! At the moment I am a beginner Python developer.
+## I am Ekaterina! At the moment I am a beginner Python developer.
 
 
 :eyes:  I am currently studying Python, Django, Django REST framework, SQL, Docker
