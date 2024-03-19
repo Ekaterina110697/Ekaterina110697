@@ -8,7 +8,7 @@
 
 :email: How to connect me:
 
-[![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="mailto:ekaterinak1106@bk.ru">)
+[![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekaterinak1106@bk.ru)
 
 [![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AKEkaterinaa)
 
